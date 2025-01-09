@@ -18,7 +18,6 @@ Use DockerHub as a Storage solution to store encrypted artifacts containing pers
 - store those references in DB. and push those blobs to dockerhub and store digest.
 - Check DB if new files exist do the same process.
 
-
 ## Abilities needed
 - Should be able to list files in the folder
 - Should be able to list referenced files and artifacts
@@ -28,7 +27,6 @@ Use DockerHub as a Storage solution to store encrypted artifacts containing pers
 - Use FUSE to manage files in linux. 
 - Use GPG to encrypt and decrypt artifacts
 - Use ORAS to push/pull artifacts from DockerHub.
-
 
 ## Data Flows
 ### Upload
