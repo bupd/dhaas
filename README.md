@@ -3,8 +3,6 @@
 <h1 align=center>dhaas</h1>
 DockerHub as a Storage solution to store encrypted containers containing personal data.
 
-
-
 ## Ideas
 ![image](https://github.com/user-attachments/assets/da59a9df-fcbf-4990-a596-bf005036318b)
 
