@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/ff4f9cd8-c547-4e65-b10e-ae7ec968efa5)
 
-<h1 align=center>DHAAS</h1>
-DockerHub as a Storage solution to store encrypted containers containing personal data.
+<h1 align=center>DHAAS - DockerHub as a Storage</h1>
+
+To use DockerHub as a Storage solution to store encrypted containers containing personal data.
 
 ## Program Flow
 ![image](https://github.com/user-attachments/assets/7bda523e-77d1-427f-852c-289187d0f9a9)
