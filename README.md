@@ -13,5 +13,4 @@ DockerHub as a Storage solution to store encrypted containers containing persona
 ![image](https://github.com/user-attachments/assets/3726ea71-9123-4d6f-8251-0679d88a65f1)
 
 ## DB Structure
-![image](https://github.com/user-attachments/assets/d859773f-80f2-4bb2-b367-9d6e4f01b409)
-
+![image](https://github.com/user-attachments/assets/14da8512-1535-406d-82da-ba470009be20)
