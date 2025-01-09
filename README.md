@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ff4f9cd8-c547-4e65-b10e-ae7ec968efa5)
 
-<h1 align=center>dhaas</h1>
+<h1 align=center>DHAAS</h1>
 DockerHub as a Storage solution to store encrypted containers containing personal data.
 
 ## Program Flow
